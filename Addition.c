@@ -1,12 +1,5 @@
 #include<stdio.h>
 
-
-
-
-
-
-
-
 int main()
 {
     int No1 = 10;
